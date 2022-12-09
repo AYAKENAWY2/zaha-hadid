@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+
+}
+
+li {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.container {
+    width: 1440px;
+    margin: 40px auto;
+}
+
+.header {
+    border: 2px solid red;
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav {
+    display: flex;
+    width: 400px;
+    border: 2px solid blue;
+    justify-content: space-between;
+}
