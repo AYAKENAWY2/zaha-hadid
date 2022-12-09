@@ -2,34 +2,55 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
-body {
 
 }
+body{
 
+    background-color:#BDBFBF ;
+    font-family: Tamil MN;
+    
+
+}
 li {
     list-style: none;
 }
+
 a {
     text-decoration: none;
     color: inherit;
 }
-
 .container {
-    width: 1440px;
+    width: 1300px;
     margin: 40px auto;
 }
 
 .header {
-    border: 2px solid red;
-    margin-top: 60px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+
+margin-top: 50px;
+display: flex;
+justify-content: space-between;
+align-items: center;
 }
 .nav {
     display: flex;
-    width: 400px;
-    border: 2px solid blue;
+    width: 600px;
     justify-content: space-between;
+    height: 500px;
+ 
+}
+.nav a {
+    color: black
+    
+}
+
+.nav a:hover {
+
+    background-color: #5B5B5B;;
+    color: white;
+}
+.main {
+    display:flex;
+}
+.left {
+    flex: 2;
 }
