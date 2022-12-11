@@ -34,12 +34,10 @@ a {
     margin-right: 40px;
     position: static;
     float: right;
-    max-width: ;
     
 }
 
 .header {
-
 margin-top: 50px;
 display: flex;
 justify-content: space-between;
@@ -52,8 +50,8 @@ margin: 0px auto;
         padding: 50px;
         display: flex;
         width: 100%;
-
 }
+
 .nav {
     display: flex;
     width: 600px;
@@ -80,10 +78,8 @@ h3 {
         line-height: 45px;
         font-family: Tamil MN;
         text-align: left;
-
-    
-  
 }
+
 .main {
     display:flex;
 }
@@ -133,10 +129,7 @@ color: #D5CFC6;
         margin: 5px;
         border: -3px solid #6E7349;
         float: left;
-        width: 440px;
-        
-        
-        margin-top: 
+        width: 420px; 
     }
     .gallery img {
         width: 100%;

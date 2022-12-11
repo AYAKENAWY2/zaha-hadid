@@ -94,14 +94,15 @@ margin-top: -5%;
     margin: 16px 0;
     border: 0;
     background: white;
-    padding: 20px 40px;
+    padding: 20px 30px;
     outline: none;
-    color: #DDD;
+    color: black;
     transition: 0.5s;
+    border-radius: 3px;
 
 }
 .contact-form-text:focus {
-    box-shadow: 0 0 10px 4px #D4CEC5}
+    box-shadow: 0 0 10px 4px #F205B3}
   textarea.contact-form-text {
     resize: none;
     height: 120px;
@@ -111,8 +112,8 @@ margin-top: -5%;
     border: 0;
     background:  white;
     color: #D4CEC5;
-padding: 12px 50px;
-border-radius: 20px;
+padding: 12px 60px;
+border-radius: 5px;
 cursor: pointer;
 transition: 0.5s;
 

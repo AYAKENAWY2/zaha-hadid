@@ -5,13 +5,12 @@
     font-family: Tamil MN;
   
 }
-body{
+body {
 
     background-color:#BDBFBF ;
     font-family: Tamil MN;
-    
-
 }
+
 li {
     list-style: none;
 }
@@ -25,9 +24,7 @@ img {
     max-height: 100%;
   }
   .picture1{
-   
     height: 100px;
-
   }
 
   .container {
@@ -36,7 +33,6 @@ img {
     margin-right: 40px;
     position: static;
     float: right;
-    
    
 }
 .header {
@@ -58,7 +54,6 @@ margin: 0px auto;
     display: flex;
     width: 600px;
     justify-content: space-between;
-   
  
 }
 .nav a {
@@ -130,7 +125,6 @@ color: #D5CFC6;
          align-items: center;
         
       }
-      
         
       .picture1 {
         padding-right: 50px;
