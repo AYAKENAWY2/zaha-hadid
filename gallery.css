@@ -49,6 +49,7 @@ a {
         padding: 50px;
         display: flex;
         width: 100%;
+       
     }
     .nav {
         display: flex;
@@ -124,3 +125,4 @@ a {
     span {
         background: #fff;
     }
+    
